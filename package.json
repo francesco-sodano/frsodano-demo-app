@@ -1,0 +1,15 @@
+{
+  "name": "frsodano-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=8080 serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Sodano",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
